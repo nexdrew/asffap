@@ -1,0 +1,10 @@
+{
+  "name": "my-awesome-pkg",
+  "version": "1.0.0",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^2.4.0"
+  }
+}
